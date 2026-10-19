@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/v1.3.0/TowerDefense.apk",
-  "notes": "알타디 (RPG TOWER DEFENSE) — 릴리스 노트 v1.3.0",
-  "sha256": "77659acf9791c2ac61f22ccd8a15892f4db9718783e2b34a40e164e9c90e5793",
-  "publishedAt": "2026-10-19T12:43:37.715813Z"
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/v1.4.0/TowerDefense.apk",
+  "notes": "알타디 (RPG TOWER DEFENSE) — 릴리스 노트 v1.4.0",
+  "sha256": "1650f01c8c2178f4f76438ef58e648914583c616ae26fcf4fcbb9a8ba4f246c5",
+  "publishedAt": "2026-10-19T13:04:28.858844Z"
 }
