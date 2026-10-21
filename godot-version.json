@@ -2,7 +2,7 @@
   "versionCode": 1,
   "versionName": "1.0.0",
   "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.0.0/AltaTD-Godot.apk",
-  "notes": "",
+  "notes": "첫 Godot 포팅 빌드 — 카드 뽑기·4합성, 타워 8종×5등급, 난이도 6단계, 장비/영웅 성장, 앱 내 자동 업데이트",
   "sha256": "071747dc294ab4848d077c0a192fea86103c09a3071628f42bf9897988836204",
   "promo": "",
   "publishedAt": "2026-10-21T13:25:31.477579Z"
