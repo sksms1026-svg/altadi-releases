@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.8.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.8.0/AltaTD-Godot.apk",
-  "notes": "에셋팩 v2 적용 — 몬스터 외곽선·얼굴·등급색, 영웅 8종 신규 프레임, 스킬 컷인 8종, UI 4상태 버튼",
-  "sha256": "4e0eac8f7d612d9602d556724fbfa36f844c26f556c7d268306e946da9977325",
+  "versionCode": 11,
+  "versionName": "1.9.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.9.0/AltaTD-Godot.apk",
+  "notes": "고정 맵 10종과 그림자 장애물 · 스테이지 선택 · 레벨업 카드 · 조이스틱 이동",
+  "sha256": "a72e5a8bcfab06729462e2d651433fe38aa55e53f31a72b4fa1fd90c5a17e58c",
   "promo": "",
-  "publishedAt": "2026-10-22T09:35:51.525983Z"
+  "publishedAt": "2026-10-22T10:55:28.674895Z"
 }
