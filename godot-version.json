@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5.1",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.5.1/AltaTD-Godot.apk",
-  "notes": "알타디 Godot 1.5.1 — 튜토리얼, 모달·패널 디자인 시스템 마이그레이션 완료  ",
-  "sha256": "a817d7941110556192ac2d6608b23f6cb8439424382fb7ac2bd70d1da82d721c",
+  "versionCode": 6,
+  "versionName": "1.5.2",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.5.2/AltaTD-Godot.apk",
+  "notes": "알타디 Godot 1.5.2 — 60fps 고정 및 프레임 히치 제거  ",
+  "sha256": "0eba7e1abcb53c489028973058f5ad87c85c0ea3b3e51f7f614cf2329c4445d2",
   "promo": "",
-  "publishedAt": "2026-10-22T00:46:54.086220Z"
+  "publishedAt": "2026-10-22T01:12:17.495298Z"
 }
