@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9.1",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.9.1/AltaTD-Godot.apk",
-  "notes": "스테이지 선택에서 잠긴 단계로 진입하면 출발이 막히던 문제 수정 · 난이도 라벨 잘림 수정 · 테마 배경 갱신",
-  "sha256": "0720ad8a0b53a883fe7d1dcb868bbf5fce423f67d92e1917f7034f3a2f82247c",
+  "versionCode": 13,
+  "versionName": "1.10.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.10.0/AltaTD-Godot.apk",
+  "notes": "알타디 v1.10.0 — 허브 개편 · 동료/타워/장비/강화/상점 화면 · 등급 6단계 · 시야 차단",
+  "sha256": "bbacf12ca2871e71a6de453f16175cfa44a4d68f7bf68b217706e1caa7c79a58",
   "promo": "",
-  "publishedAt": "2026-10-22T11:05:27.450801Z"
+  "publishedAt": "2026-10-22T12:44:10.748805Z"
 }
