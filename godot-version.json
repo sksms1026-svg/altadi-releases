@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.10.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.10.0/AltaTD-Godot.apk",
-  "notes": "알타디 v1.10.0 — 허브 개편 · 동료/타워/장비/강화/상점 화면 · 등급 6단계 · 시야 차단 · 이벤트 제약",
-  "sha256": "3d02c6347fb7ff0276888896832b92866c118c7bc7f95467f0ca216c9d0d26f1",
+  "versionCode": 14,
+  "versionName": "1.10.1",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.10.1/AltaTD-Godot.apk",
+  "notes": "알타디 v1.10.1 — UI 에셋 적용 (내비 아이콘·신 등급 액자·상점 카드·이벤트 배너·도감 배경)",
+  "sha256": "18a5c5bf1e9707fac9cce51220e8fd19af227425fdf62480f23de300f01bfa4d",
   "promo": "",
-  "publishedAt": "2026-10-22T12:49:17.769647Z"
+  "publishedAt": "2026-10-22T13:51:08.706413Z"
 }
