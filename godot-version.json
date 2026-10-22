@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.3.0/AltaTD-Godot.apk",
-  "notes": "알타디 Godot 1.3.0 — 2차 에셋팩(타워·초상·펫·스킬·이펙트·메뉴) 반영  ",
-  "sha256": "09f7c81c1e4db6e862237a03b6f5d82ed3c18f7c0db4de07b338ad7e8a8ef41b",
+  "versionCode": 5,
+  "versionName": "1.5.1",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.5.1/AltaTD-Godot.apk",
+  "notes": "알타디 Godot 1.5.1 — 튜토리얼, 모달·패널 디자인 시스템 마이그레이션 완료  ",
+  "sha256": "a817d7941110556192ac2d6608b23f6cb8439424382fb7ac2bd70d1da82d721c",
   "promo": "",
-  "publishedAt": "2026-10-21T22:45:08.041643Z"
+  "publishedAt": "2026-10-22T00:46:54.086220Z"
 }
