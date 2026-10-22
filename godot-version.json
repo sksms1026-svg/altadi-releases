@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.6.0/AltaTD-Godot.apk",
-  "notes": "알타디 Godot 1.6.0 — 블룬TD식 몬스터, 칩+원형 버튼 HUD  ",
-  "sha256": "c3c9e2f8d8b7b1b3230d0c7e28a2862ffdad1375cc43bffbe481d75e8f9820c4",
+  "versionCode": 8,
+  "versionName": "1.6.1",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.6.1/AltaTD-Godot.apk",
+  "notes": "알타디 Godot 1.6.1 — 스킬 컷인 연출, 보스 HP 바  ",
+  "sha256": "895508ffecb37fffea36509ac6a39fa97e1c09b9f0472fc746163a01c4947220",
   "promo": "",
-  "publishedAt": "2026-10-22T01:24:25.785907Z"
+  "publishedAt": "2026-10-22T01:46:13.565101Z"
 }
