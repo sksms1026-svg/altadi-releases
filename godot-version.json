@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6.1",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.6.1/AltaTD-Godot.apk",
-  "notes": "알타디 Godot 1.6.1 — 스킬 컷인 연출, 보스 HP 바  ",
-  "sha256": "895508ffecb37fffea36509ac6a39fa97e1c09b9f0472fc746163a01c4947220",
+  "versionCode": 9,
+  "versionName": "1.7.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.7.0/AltaTD-Godot.apk",
+  "notes": "타격감 오버홀: 사망 버스트, trauma 흔들림, 이동 가속  ",
+  "sha256": "54b364fec24bd83d74031ee9318930fa4b76ac3a2c56b2772a59663f6e491be5",
   "promo": "",
-  "publishedAt": "2026-10-22T01:46:13.565101Z"
+  "publishedAt": "2026-10-22T02:13:28.919836Z"
 }
