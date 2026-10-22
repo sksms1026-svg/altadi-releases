@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.9.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.9.0/AltaTD-Godot.apk",
-  "notes": "고정 맵 10종과 그림자 장애물 · 스테이지 선택 · 레벨업 카드 · 조이스틱 이동",
-  "sha256": "a72e5a8bcfab06729462e2d651433fe38aa55e53f31a72b4fa1fd90c5a17e58c",
+  "versionCode": 12,
+  "versionName": "1.9.1",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.9.1/AltaTD-Godot.apk",
+  "notes": "스테이지 선택에서 잠긴 단계로 진입하면 출발이 막히던 문제 수정 · 난이도 라벨 잘림 수정 · 테마 배경 갱신",
+  "sha256": "0720ad8a0b53a883fe7d1dcb868bbf5fce423f67d92e1917f7034f3a2f82247c",
   "promo": "",
-  "publishedAt": "2026-10-22T10:55:28.674895Z"
+  "publishedAt": "2026-10-22T11:05:27.450801Z"
 }
