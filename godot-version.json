@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.7.0/AltaTD-Godot.apk",
-  "notes": "타격감 오버홀: 사망 버스트, trauma 흔들림, 이동 가속  ",
-  "sha256": "54b364fec24bd83d74031ee9318930fa4b76ac3a2c56b2772a59663f6e491be5",
+  "versionCode": 10,
+  "versionName": "1.8.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.8.0/AltaTD-Godot.apk",
+  "notes": "feat(art): 에셋팩 v2 인제스트 — 슬라임 외곽선·얼굴·등급 틴트, 영웅 8종, 컷인 8종, UI (v1.8.0)  에셋팩(62 PNG)을 tools/extract_pack.mjs 하나로 프로젝트에 넣고, 그림이 \"색칠한 달걀\"로 보이던 문제를 세 가지로 고쳤다.  ## 인제스트 - �",
+  "sha256": "4e0eac8f7d612d9602d556724fbfa36f844c26f556c7d268306e946da9977325",
   "promo": "",
-  "publishedAt": "2026-10-22T02:13:28.919836Z"
+  "publishedAt": "2026-10-22T09:35:51.525983Z"
 }
