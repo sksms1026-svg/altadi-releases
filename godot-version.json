@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "1.13.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.13.0/AltaTD-Godot.apk",
+  "versionCode": 18,
+  "versionName": "1.14.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.14.0/AltaTD-Godot.apk",
   "notes": "타워 관리·하단 바·레벨업 카드 재설계, 그림자가 맵 절반을 덮던 판정 버그(원뿔) 수정, 스테이지 상세에 웨이브 20칸 스트립 추가",
-  "sha256": "2159eb797c35bf14822079de2f51216ed15a192346f56e83ef672ac30910fdf9",
+  "sha256": "fae2f14693103b337ace92c14a0e2a2f5004aa2c8494447963d3bb003abd2dfa",
   "promo": "",
-  "publishedAt": "2026-10-23T00:04:15.214531Z"
+  "publishedAt": "2026-10-23T00:09:18.961290Z"
 }
