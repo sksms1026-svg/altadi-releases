@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "1.17.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.17.0/AltaTD-Godot.apk",
-  "notes": "영웅 11명과 슬라임·숲 지형을 새로 그렸습니다. 이제 화풍이 하나로 통일됩니다.",
-  "sha256": "62207d8e031d55808c2b2799ebbb0dd4e41ca9f55b69dc60a4773c848ad929a2",
+  "versionCode": 23,
+  "versionName": "1.18.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.18.0/AltaTD-Godot.apk",
+  "notes": "월드맵과 단계별 난이도, 몬스터 특성, 영웅 스킬을 새로 넣었습니다. 뒤로가기로 앱이 꺼지던 문제도 고쳤습니다.",
+  "sha256": "cce91f8e608a204115f360c9770c0de58efe593d4b01b12478fa9a68baf60bcf",
   "promo": "",
-  "publishedAt": "2026-10-23T08:33:33.506901Z"
+  "publishedAt": "2026-10-23T12:39:11.449252Z"
 }
