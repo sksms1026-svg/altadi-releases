@@ -1,9 +1,9 @@
 {
-  "versionCode": 23,
-  "versionName": "1.18.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.18.0/AltaTD-Godot.apk",
-  "notes": "월드맵과 단계별 난이도, 몬스터 특성, 영웅 스킬을 새로 넣었습니다. 뒤로가기로 앱이 꺼지던 문제도 고쳤습니다.",
-  "sha256": "cce91f8e608a204115f360c9770c0de58efe593d4b01b12478fa9a68baf60bcf",
+  "versionCode": 24,
+  "versionName": "1.19.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.19.0/AltaTD-Godot.apk",
+  "notes": "상점에서 코인을 잃던 문제와 튜토리얼 안내가 화면에 남던 문제를 고쳤습니다.",
+  "sha256": "3e16e5513963cb5df142c6d8cc972a9aacb623fae2713c94a925a0bc5d99be3c",
   "promo": "",
-  "publishedAt": "2026-10-23T12:39:11.449252Z"
+  "publishedAt": "2026-10-23T15:33:22.433440Z"
 }
