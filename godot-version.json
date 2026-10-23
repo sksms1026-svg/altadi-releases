@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.10.1",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.10.1/AltaTD-Godot.apk",
-  "notes": "알타디 v1.10.1 — UI 에셋 적용 (내비 아이콘·신 등급 액자·상점 카드·이벤트 배너·도감 배경)",
-  "sha256": "18a5c5bf1e9707fac9cce51220e8fd19af227425fdf62480f23de300f01bfa4d",
+  "versionCode": 17,
+  "versionName": "1.13.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.13.0/AltaTD-Godot.apk",
+  "notes": "타워 관리·하단 바·레벨업 카드 재설계, 그림자가 맵 절반을 덮던 판정 버그(원뿔) 수정, 스테이지 상세에 웨이브 20칸 스트립 추가",
+  "sha256": "2159eb797c35bf14822079de2f51216ed15a192346f56e83ef672ac30910fdf9",
   "promo": "",
-  "publishedAt": "2026-10-22T13:51:08.706413Z"
+  "publishedAt": "2026-10-23T00:04:15.214531Z"
 }
