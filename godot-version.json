@@ -1,9 +1,9 @@
 {
-  "versionCode": 20,
-  "versionName": "1.15.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.15.0/AltaTD-Godot.apk",
-  "notes": "v1.15.0 (code 20) — 정비 표면 · Nav 스택 · 탭 규격",
-  "sha256": "632a63d95a39e58b951ca64b7a9dac0ebdba05b689355aedae21d3b223848e72",
+  "versionCode": 21,
+  "versionName": "1.16.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.16.0/AltaTD-Godot.apk",
+  "notes": "영웅의 공격이 모션에 맞춰 들어갑니다. 부팅 인트로와 글자 가독성도 손봤습니다.",
+  "sha256": "58621a2fe5cd10953df819b8516632cac96c982909ddcaafe7d874d940c59089",
   "promo": "",
-  "publishedAt": "2026-10-23T01:05:00.307379Z"
+  "publishedAt": "2026-10-23T02:21:28.463059Z"
 }
