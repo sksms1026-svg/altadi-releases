@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "versionName": "1.14.1",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.14.1/AltaTD-Godot.apk",
-  "notes": "타워 관리·하단 바·레벨업 카드 재설계, 그림자 원뿔 판정 수정, 웨이브 스트립 (1.14.1 라벨 잘림 수정)",
-  "sha256": "7eeb91d1fcce30eea0ca25ef44d8958504fd4e18e43b585a8f784cfea31c4684",
+  "versionCode": 20,
+  "versionName": "1.15.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.15.0/AltaTD-Godot.apk",
+  "notes": "v1.15.0 (code 20) — 정비 표면 · Nav 스택 · 탭 규격",
+  "sha256": "632a63d95a39e58b951ca64b7a9dac0ebdba05b689355aedae21d3b223848e72",
   "promo": "",
-  "publishedAt": "2026-10-23T00:22:14.695006Z"
+  "publishedAt": "2026-10-23T01:05:00.307379Z"
 }
