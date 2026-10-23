@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "1.16.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.16.0/AltaTD-Godot.apk",
-  "notes": "영웅의 공격이 모션에 맞춰 들어갑니다. 부팅 인트로와 글자 가독성도 손봤습니다.",
-  "sha256": "58621a2fe5cd10953df819b8516632cac96c982909ddcaafe7d874d940c59089",
+  "versionCode": 22,
+  "versionName": "1.17.0",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.17.0/AltaTD-Godot.apk",
+  "notes": "영웅 11명과 슬라임·숲 지형을 새로 그렸습니다. 이제 화풍이 하나로 통일됩니다.",
+  "sha256": "62207d8e031d55808c2b2799ebbb0dd4e41ca9f55b69dc60a4773c848ad929a2",
   "promo": "",
-  "publishedAt": "2026-10-23T02:21:28.463059Z"
+  "publishedAt": "2026-10-23T08:33:33.506901Z"
 }
