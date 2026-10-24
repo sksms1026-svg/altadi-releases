@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "1.19.0",
-  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v1.19.0/AltaTD-Godot.apk",
-  "notes": "상점에서 코인을 잃던 문제와 튜토리얼 안내가 화면에 남던 문제를 고쳤습니다.",
-  "sha256": "3e16e5513963cb5df142c6d8cc972a9aacb623fae2713c94a925a0bc5d99be3c",
+  "versionCode": 25,
+  "versionName": "2.0.0-beta.1",
+  "apk": "https://github.com/sksms1026-svg/altadi-releases/releases/download/godot-v2.0.0-beta.1/AltaTD-Godot.apk",
+  "notes": "새 그림, 새 맵, 새 로비로 돌아왔어요. 로비부터 전투 화면까지 전부 다시 그렸습니다.",
+  "sha256": "e83361546a267c984076018c6b267e816250c35daf66aed2fc6ec19400108bba",
   "promo": "",
-  "publishedAt": "2026-10-23T15:33:22.433440Z"
+  "publishedAt": "2026-10-24T11:48:50.327428Z"
 }
